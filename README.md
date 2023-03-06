@@ -1,9 +1,9 @@
 # Name of Project
 
-## Table of Contents
+## Table of Contents lala
 
 - [Name of Project](#name-of-project)
-  - [Table of Contents](#table-of-contents)
+  - [Table of Contents lala](#table-of-contents-lala)
   - [Overview](#overview)
     - [Built With](#built-with)
   - [Features](#features)
@@ -24,6 +24,7 @@
 <a href='##' target="_blank"><img alt='SASS' src='https://img.shields.io/badge/SASS-100000?style=for-the-badge&logo=SASS&logoColor=F00ABF&labelColor=FAFAF4&color=FAFAF5'/></a>
 <a href='##' target="_blank"><img alt='CSS' src='https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=CSS&logoColor=F00ABF&labelColor=181817&color=151515'/></a>
 <a href='##' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=Github&logoColor=F4EEF3&labelColor=181817&color=151515'/></a>
+<a href='##' target="_blank"><img alt='Javascript' src='https://img.shields.io/badge/JAVASCRIPT-100000?style=for-the-badge&logo=Javascript&logoColor=F0F40C&labelColor=181817&color=151515'/></a>
 
 
 <!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
