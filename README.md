@@ -1,5 +1,5 @@
 # My Portfolio: Dummy Space
- *Showcase web development experiences, and other personal projects, related coursework in Computer Science. hmm*
+ *Showcase web development experiences, and other personal projects, related coursework in Computer Science.*
 ## Table of Contents 
 
 - [My Portfolio: Dummy Space](#my-portfolio-dummy-space)
