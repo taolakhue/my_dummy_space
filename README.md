@@ -5,8 +5,7 @@
 - [My Portfolio: Dummy Space](#my-portfolio-dummy-space)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
-    - [Built With](#built-with)
-  - [Features](#features)
+    - [Tech Stacks](#tech-stacks)
   - [Contact](#contact)
   - [Acknowledgements](#acknowledgements)
 
@@ -20,7 +19,7 @@
  -->
  ![alt text](images/port-record.gif)
 
-### Built With
+### Tech Stacks
 <a target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=D70D0D&labelColor=FDF506&color=FDF506'/></a>
 <a href='##' target="_blank"><img alt='SASS' src='https://img.shields.io/badge/SASS-100000?style=for-the-badge&logo=SASS&logoColor=F00ABF&labelColor=FAFAF4&color=FAFAF5'/></a>
 <a href='##' target="_blank"><img alt='CSS' src='https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=CSS&logoColor=F00ABF&labelColor=181817&color=151515'/></a>
@@ -30,9 +29,7 @@
 
 <!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
 
-## Features
 
-<!-- TODO: List what specific 'user problems' that this application solves. -->
 
 ## Contact
 
